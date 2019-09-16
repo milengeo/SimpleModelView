@@ -8,3 +8,5 @@ or using an additional framework.
 All state related data are kept in a static class which is tied to  
 the  application life cycle, instead of the activity one.
 
+v 111
+v 22222
